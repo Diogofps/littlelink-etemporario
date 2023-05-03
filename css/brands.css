@@ -40,7 +40,7 @@ button {
   width: 300px;
   font-weight: 600;
   line-height: 20px;
-  padding: 12px 12px 12px 12px;
+  padding: 12px 12px 12px 2px;
   letter-spacing: 0.1px;
   white-space: wrap;
   outline: none;
