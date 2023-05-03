@@ -103,7 +103,6 @@ h1 {
   margin-top: 0;
   margin-bottom: 16px;
   font-weight: 600;
-  font-family: 'Yeseva One', cursive;
 }
 h1 {
   font-size: 20px;
@@ -114,7 +113,7 @@ h1 {
 /* Larger than phablet */
 @media (min-width: 550px) {
   h1 {
-    font-size: 48px;
+    font-size: 30px;
     line-height: 96px;
   }
 }
