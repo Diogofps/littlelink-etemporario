@@ -277,3 +277,10 @@ hr {
        url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-800.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-800.svg#OpenSans') format('svg'); /* Legacy iOS */
 }
+
+@font-face {
+  font-display: swap;
+  font-family: 'Inknut Antiqua';
+  font-style: normal;
+  font-weight: 800;
+  src: url('../fonts/InknutAntiqua.ttf');
