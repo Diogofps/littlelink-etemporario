@@ -93,8 +93,8 @@ body {
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;
-  font-family: 'Inknut Antiqua', "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial,
-    sans-serif, serif;
+  font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
 }
 
 /* Typography
@@ -103,6 +103,7 @@ h1 {
   margin-top: 0;
   margin-bottom: 16px;
   font-weight: 800;
+  font-family: 'Inknut Antiqua', serif;
 }
 h1 {
   font-size: 20px;
