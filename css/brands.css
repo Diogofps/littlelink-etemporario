@@ -75,7 +75,6 @@ button:hover,
   position: relative;
   left: 8px;
   top: 50%;
-  transform: translateY(-50%);
 }
 
 /* Brand Styles
