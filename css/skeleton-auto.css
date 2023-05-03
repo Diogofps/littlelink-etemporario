@@ -91,7 +91,7 @@ html {
 }
 body {
   font-size: 10px;
-  line-height: 24px;
+  line-height: 30px;
   font-weight: 400;
   font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial,
     sans-serif;
@@ -110,7 +110,7 @@ h1 {
   letter-spacing: 0;
 }
 h2 {
-  font-size: 20px;
+  font-size: 10px;
   line-height: 30px;
   letter-spacing: 0;
 }
@@ -120,6 +120,10 @@ h2 {
     font-size: 30px;
     line-height: 96px;
   }
+  h2 {
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0;
 }
 
 p {
