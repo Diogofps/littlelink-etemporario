@@ -72,6 +72,10 @@ button:hover,
   vertical-align: text-top;
   width: 20px;
   height: 20px;
+  position: absolute;
+  left: 8px;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 /* Brand Styles
