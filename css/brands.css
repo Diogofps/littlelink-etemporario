@@ -69,7 +69,7 @@ button:hover,
 
 .icon {
   padding: 0px 2px 3.5px 0px;
-  vertical-align: text-top;
+  vertical-align: middle;
   width: 20px;
   height: 20px;
   position: relative;
