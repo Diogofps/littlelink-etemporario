@@ -72,9 +72,8 @@ button:hover,
   vertical-align: baseline;
   width: 20px;
   height: 20px;
-  position: absolute;
-  left: 5%;
-  top: 0%;
+  position: relative;
+  left: 10%;
 }
 
 /* Brand Styles
