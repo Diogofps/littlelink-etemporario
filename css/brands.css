@@ -81,12 +81,15 @@ button:hover,
 
 /* Default (this is great for your own brand color!) */
 .button.button-default {
-  color: #ffffff;
-  background-color: #2457F5;
+  color: #535353;
+  background-color: #e4e4e4;
 }
 .button.button-default:hover,
 .button.button-default:focus {
-  filter: brightness(110%);
+  transition: width 0.7s ease; height: 0.7s ease in out;
+  width: 55vw;
+  height: 4vw;
+  filter: brightness(120%);
 }
 
 /* Amazon */
