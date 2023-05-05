@@ -36,9 +36,8 @@
   box-sizing: border-box;
 }
 .column {
-  position: center;
   width: 100%;
-  float: center;
+  margin: 0 auto;
   box-sizing: border-box;
 }
 
@@ -148,7 +147,7 @@ code {
   margin: 0 0.2rem;
   font-size: 90%;
   white-space: nowrap;
-  background: #f1f1f1;
+  background: #ffffff;
   border: 1px solid #e1e1e1;
   border-radius: 4px;
 }
