@@ -38,7 +38,20 @@
   body {
     background-image: url('https://raw.githubusercontent.com/Diogofps/littlelink-etemporario/ai-mod/images/fundopapel.jpg');
     background-size: cover;
-  }
+    position: relative;
+}
+
+body::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.0); /* change the alpha value to adjust the opacity of the white tint */
+  z-index: -1;
+}
 
  <!-- Fontes importadas –––––––––––––––––––––––––––––––––––––––––––––––––-->
   <style>
@@ -58,7 +71,7 @@
         <img src="images/mona.png" srcset="images/mona.png" sizes="(max width: 600px) 00vw" alt="">
 
         <!-- Title -->
-        <h1 role="heading">@e.temporario<p></p></h1>
+        <h1 role="heading"></h1>
         
         <!-- Short Bio -->
           <h2>  </h2>
