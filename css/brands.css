@@ -52,7 +52,7 @@ button:hover,
 .button:focus {
   color: #212121;
   border-color: #888;
-  outline: #7AB8FF solid 3px
+  outline: #7AB8FF solid 0px
 }
 .button.button-primary {
   color: #fff;
