@@ -87,7 +87,7 @@ button:hover,
 .button.button-default:hover,
 .button.button-default:focus {
   transition: width 0.7s ease; height: 0.7s ease in out;
-  width: 55vw;
+  width: 5vw;
   height: 4vw;
   filter: brightness(120%);
 }
